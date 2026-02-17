@@ -5,7 +5,7 @@ import numpy as np
 
 st.title("Домашнее задание 1")
 
-with open('ridge.pkl', 'rb') as file:
+with open('./hm1/ridge.pkl', 'rb') as file:
     loaded_model = pickle.load(file)
 
 
