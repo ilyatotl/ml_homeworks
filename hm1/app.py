@@ -2,6 +2,7 @@ import pickle
 import streamlit as st
 import pandas as pd
 import numpy as np
+import sklearn
 
 st.title("Домашнее задание 1")
 
